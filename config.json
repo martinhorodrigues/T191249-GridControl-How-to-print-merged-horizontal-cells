@@ -1,0 +1,8 @@
+{
+	"autoGenerateVb": true,
+	"platform": "WinForms",
+	"product": "XtraGrid Suite",
+	"runOnWeb": false,
+	"technology": ".NET",
+	"unsupportedVersions": ""
+}
